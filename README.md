@@ -4,8 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Adargoma Cubas</h1>
-<h3 align="center">A passionate frontend developer from Gran Canaria</h3>
-- ⚡ Fun fact: I love ADD
+- ⚡ Fun fact: I keep learning
 
 - 📫 How to reach me **adargomach04@gmail.com**
 
