@@ -2,6 +2,10 @@
 
 ¡Hola! Me llamo Adargoma Cubas. Soy una persona que siempre está aprendiendo cosas nuevas y en constante evolución. Mi objetivo es seguir mejorando mis habilidades técnicas y aportar valor en el mundo del desarrollo y la tecnología. 
 
+
+- 🎓 **Educación:** Técnico Superior en Administración de Sistemas Informáticos en Red por el CIFP Villa de Agüimes.
+- 🌱 **Actualmente aprendiendo:** Curso de especialidad en Inteligencia Artificial y Big Data.
+ 
 📫 Puedes contactarme directamente a través de mi correo: **adargomach04@gmail.com**.
 
 ## 🌐 Socials:
