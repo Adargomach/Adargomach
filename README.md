@@ -20,7 +20,6 @@
 
 # 📊 GitHub Stats:
 
-[![](https://github-readme-stats.vercel.app/api?username=Adargomach&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/Adargomach)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Adargomach&theme=dracula&hide_border=false)](https://github.com/Adargomach)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adargomach&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/Adargomach)
 
