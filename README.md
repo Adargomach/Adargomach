@@ -5,7 +5,7 @@
 
 - 🎓 **Educación:**
   - Técnico Superior en Administración de Sistemas Informáticos en Red por el CIFP Villa de Agüimes.
-  - Curso de especialización en Inteligencia Artificial y Big Data.
+  - Curso de especialización en Inteligencia Artificial y Big Data por el CIFP Villa de Agüimes.
 - 🌱 **Actualmente aprendiendo:** Grado en Ciencias e Ingenería de Datos.
  
 📫 Puedes contactarme directamente a través de mi correo: **adargomach04@gmail.com**.
